@@ -1,9 +1,6 @@
-### Hi there, I'm Ayman Makhoukhi - CEO of [webstain][website] 👋
+# Hi there, I'm Ayman Makhoukhi - CEO of [webstain][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-## I'm a Business Intelligence BSc Student, FullStack Developer, Data Analyst/Scientist and UI/UX Design 
+### I'm a Business Intelligence BSc Student, FullStack Developer, Data Analyst/Scientist and UI/UX Designer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -71,4 +68,4 @@
 [instagram]: https://www.instagram.com/thewebstain/
 [linkedin]: https://www.linkedin.com/in/ayman-makhoukhi-81701a214/
 [dribble]: https://dribbble.com/AymanMak
-[medium] : https://medium.com/@webstain20
+[medium]: https://medium.com/@webstain20
