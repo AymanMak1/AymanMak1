@@ -57,12 +57,12 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<br>
 
-  <img align="left" alt="Webstain's GitHub Stats" src="https://github-readme-stats.webstain.vercel.app/api?username=Webstain&show_icons=true&hide_border=true" />
+[![Webstain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Webstain)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+
+
 
 [website]: https://webstain.netlify.app/
 [instagram]: https://www.instagram.com/thewebstain/
