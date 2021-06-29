@@ -58,7 +58,7 @@
 
     <img align="left" alt="MySQL" width="26px" src="./icons/mysql.png" />
 
-    <img align="left" alt="Oracle" width="26px" src="./icons/.png" />
+    <img align="left" alt="Oracle" width="40px" src="./icons/api.png" />
 
 <br /> <br />
 
@@ -87,10 +87,9 @@
 
 ## Github Stats:
 
-[![Webstain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Webstain&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Webstain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Webstain&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Webstain&langs_count=4&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Webstain&langs_count=4&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
