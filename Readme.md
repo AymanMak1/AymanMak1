@@ -3,15 +3,18 @@
 ## I'm a Business Intelligence BSc Student, FullStack Developer, Data Analyst/Scientist and UI/UX Designer
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 Thirsty for learning more about the CS industry
+- 🥅 2021 Goals: Starting my MSc Degree and Working with clients
+- ⚡ Fun fact: Looking forward to become a business owner in the forthcoming years__<i>Webstain</i>
 
 ## Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ayman MAKHOUKHI | LinkedIn" width="22px" src="./icons/linkedin.png" />][linkedin]
+[<img align="left" alt="Webstain | Instagram" width="22px" src="./icons/instagram.png" />][instagram]
+[<img align="left" alt="Ayman Makhoukhi | Dribble" width="22px" src="./icons/dribble.png" />][dribbble]
+
+
+<!-- [<img align="left" alt="webstain.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
 <br />
 
@@ -47,34 +50,40 @@
 
 - ### Backend & Databases:
 
-    <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+    <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 
-    <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
+    <img align="left" alt="Laravel" width="26px" src="./icons/laravel.png" />
 
     <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
+    <img align="left" alt="MySQL" width="26px" src="./icons/mysql.png" />
 
-    <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-
-    <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-    <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-    <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+    <img align="left" alt="Oracle" width="26px" src="./icons/.png" />
 
 <br /> <br />
 
 - ### Data Science :
 
-  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+  <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 
-  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
+  <img align="left" alt="Orange" width="26px" src="./icons/powerbi.png" />
 
+  <img align="left" alt="Orange" width="26px" src="./icons/excel.png" />
 
+  <img align="left" alt="IBM Watson" width="26px" src="./icons/ibm-watson.png" />
+
+  <img align="left" alt="Orange" width="26px" src="./icons/orange.png" />
 
 <br /><br />
 
+- ### Other Programming Languages :
+
+  <img align="left" alt="java" width="26px" src="./icons/java.png" />
+  <img align="left" alt="ruby" width="26px" src="./icons/ruby.png" />
+
+<br /><br />
 
 ## Github Stats:
 
@@ -88,5 +97,5 @@
 [website]: https://webstain.netlify.app/
 [instagram]: https://www.instagram.com/thewebstain/
 [linkedin]: https://www.linkedin.com/in/ayman-makhoukhi-81701a214/
-[dribble]: https://dribbble.com/AymanMak
+[dribbble]: https://dribbble.com/AymanMak
 [medium]: https://medium.com/@webstain20
