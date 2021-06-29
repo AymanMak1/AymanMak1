@@ -58,7 +58,7 @@
 
     <img align="left" alt="MySQL" width="26px" src="./icons/mysql.png" />
 
-    <img align="left" alt="Oracle" width="35px" src="./icons/api.png" />
+    <img align="left" alt="Oracle" width="30px" src="./icons/api.png" />
 
 <br /> <br />
 
@@ -82,6 +82,11 @@
 
   <img align="left" alt="java" width="26px" src="./icons/java.png" />
   <img align="left" alt="ruby" width="26px" src="./icons/ruby.png" />
+
+<br /><br />
+
+- ### Tools
+    <img align="left" alt="ruby" width="26px" src="./icons/postman.png" />
 
 <br /><br />
 
