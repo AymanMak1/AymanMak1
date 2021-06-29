@@ -94,7 +94,7 @@
 
 [![Webstain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Webstain&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Webstain&langs_count=4&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Webstain&langs_count=10&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
