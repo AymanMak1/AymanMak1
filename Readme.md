@@ -58,7 +58,7 @@
 
     <img align="left" alt="MySQL" width="26px" src="./icons/mysql.png" />
 
-    <img align="left" alt="Oracle" width="40px" src="./icons/api.png" />
+    <img align="left" alt="Oracle" width="35px" src="./icons/api.png" />
 
 <br /> <br />
 
