@@ -1,17 +1,17 @@
-# Hi there, I'm Ayman Makhoukhi - CEO of [webstain][instagram] 👋
+# Hi there, I'm Ayman Makhoukhi 👋
 
 ## I'm a Business Intelligence BSc Student, FullStack Developer, Data Analyst/Scientist and UI/UX Designer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 Thirsty for learning more about the CS industry
 - 🥅 2021 Goals: Starting my MSc Degree and Working with clients
-- ⚡ Fun fact: Looking forward to become a business owner in the forthcoming years__<i>Webstain</i>
+- ⚡ Fun fact: Looking forward to become a business owner in the forthcoming years.
 
 ## Connect with me:
 
-[<img align="left" alt="Ayman MAKHOUKHI | LinkedIn" width="22px" src="./icons/linkedin.png" />][linkedin]
-[<img align="left" alt="Webstain | Instagram" width="22px" src="./icons/instagram.png" />][instagram]
-[<img align="left" alt="Ayman Makhoukhi | Dribble" width="22px" src="./icons/dribble.png" />][dribbble]
+[<img align="left" alt="Ayman MAKHOUKHI IN | LinkedIn" width="22px" src="./icons/linkedin.png" />][linkedin]
+[<img align="left" alt="Ayman MAKHOUKHI IG | Instagram" width="22px" src="./icons/instagram.png" />][instagram]
+[<img align="left" alt="Ayman Makhoukhi DB | Dribble" width="22px" src="./icons/dribble.png" />][dribbble]
 
 
 <!-- [<img align="left" alt="webstain.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
@@ -92,14 +92,13 @@
 
 ## Github Stats:
 
-[![Webstain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Webstain&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) 
+[![Webstain's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanMak1&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Webstain&langs_count=10&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanMak1&langs_count=10&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[website]: https://webstain.netlify.app/
-[instagram]: https://www.instagram.com/thewebstain/
+[website]: https://aymanmakhoukhi.netlify.app/
+[instagram]: https://www.instagram.com/ayman_makhoukhi/
 [linkedin]: https://www.linkedin.com/in/ayman-makhoukhi-81701a214/
 [dribbble]: https://dribbble.com/AymanMak
-[medium]: https://medium.com/@webstain20
