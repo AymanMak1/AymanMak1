@@ -21,8 +21,6 @@
 ## Languages and Tools: <br />
 - ### Frontend:
 
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
   <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
   <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -45,6 +43,8 @@
 
   <img align="left" alt="jquery" width="26px" src="./icons/jquery.png" />
 
+  <img align="left" alt="API" width="30px" src="./icons/api.png" />
+
 
 <br /> <br />
 
@@ -54,11 +54,9 @@
 
     <img align="left" alt="Laravel" width="26px" src="./icons/laravel.png" />
 
-    <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
     <img align="left" alt="MySQL" width="26px" src="./icons/mysql.png" />
 
-    <img align="left" alt="Oracle" width="30px" src="./icons/api.png" />
+    <img align="left" alt="Oracle" width="30px" src="./icons/oracle.png" />
 
 <br /> <br />
 
@@ -66,15 +64,18 @@
 
   <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 
+  <img align="left" alt="Orange" width="26px" src="./icons/shiny.png" />
+
   <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-  <img align="left" alt="Orange" width="26px" src="./icons/powerbi.png" />
+  <img align="left" alt="powerbi" width="26px" src="./icons/powerbi.png" />
 
-  <img align="left" alt="Orange" width="26px" src="./icons/excel.png" />
+  <img align="left" alt="excel" width="26px" src="./icons/excel.png" />
 
   <img align="left" alt="IBM Watson" width="26px" src="./icons/ibm-watson.png" />
 
   <img align="left" alt="Orange" width="26px" src="./icons/orange.png" />
+
 
 <br /><br />
 
@@ -86,7 +87,26 @@
 <br /><br />
 
 - ### Tools
-    <img align="left" alt="ruby" width="26px" src="./icons/postman.png" />
+    <img align="left" alt="postman" width="26px" src="./icons/postman.png" />
+    <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    <img align="left" alt="ruby" width="26px" src="./icons/brackets.png" />
+    <img align="left" alt="ruby" width="26px" src="./icons/atom.png" />
+    <img align="left" alt="webstorm" width="26px" src="./icons/webstorm.png"/>
+    <img align="left" alt="phpstorm" width="26px" src="./icons/phpstorm.png"/>
+    <img align="left" alt="intelligIDEA" width="26px" src="./icons/intellij.png"/>
+    <img align="left" alt="eclipse" width="26px" src="./icons/eclipse.png"/>
+    <img align="left" alt="powerdesigner" width="26px" src="./icons/powerdesigner.png"/>
+    <img align="left" alt="Visual Paradigm" width="26px" src="./icons/vsparadigm.png"/>
+    <img align="left" alt="Mobaxterm" width="26px" src="./icons/mobaxterm.jpg"/>
+    <img align="left" alt="filezilla" width="26px" src="./icons/filezilla.png"/>
+    <img align="left" alt="git" width="26px" src="./icons/git.png"/>
+
+<br /><br />
+- ### Others
+    <img align="left" alt="webflow" width="26px" src="./icons/webflow.png" />
+    <img align="left" alt="shopify" width="26px" src="./icons/shopify.png" />
+    <img align="left" alt="liquid" width="26px" src="./icons/liquid.png" />
+    <img align="left" alt="wordpress" width="26px" src="./icons/wp.png" />
 
 <br /><br />
 
