@@ -27,9 +27,11 @@
 
   <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
+  <img align="left" alt="MaterializeCSS" width="26px" src="./icons/materialUI.png" />
+
   <img align="left" alt="MaterializeCSS" width="26px" src="./icons/materialize.png" />
 
-
+  
   <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
 
@@ -53,6 +55,8 @@
     <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 
     <img align="left" alt="Laravel" width="26px" src="./icons/laravel.png" />
+
+    <img align="left" alt="firebase" width="26px" src="./icons/firebase.png" />
 
     <img align="left" alt="MySQL" width="26px" src="./icons/mysql.png" />
 
@@ -86,11 +90,19 @@
 
 <br /><br />
 
+- ### Operating Systems:
+  <img align="left" alt="Windows 10" width="26px" src="./icons/windows10.png" />
+  <img align="left" alt="Ubuntu" width="26px" src="./icons/ubuntu.png" />
+  <img align="left" alt="CentOS" width="26px" src="./icons/fedora.png" />
+    <img align="left" alt="Ubuntu" width="26px" src="./icons/kali.png" />
+  <img align="left" alt="CentOS" width="26px" src="./icons/centos.png" />
+
+  <br /><br />
 - ### Tools
     <img align="left" alt="postman" width="26px" src="./icons/postman.png" />
     <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    <img align="left" alt="ruby" width="26px" src="./icons/brackets.png" />
-    <img align="left" alt="ruby" width="26px" src="./icons/atom.png" />
+    <img align="left" alt="Brackets" width="26px" src="./icons/brackets.png" />
+    <img align="left" alt="Atom" width="26px" src="./icons/atom.png" />
     <img align="left" alt="webstorm" width="26px" src="./icons/webstorm.png"/>
     <img align="left" alt="phpstorm" width="26px" src="./icons/phpstorm.png"/>
     <img align="left" alt="intelligIDEA" width="26px" src="./icons/intellij.png"/>
@@ -100,6 +112,8 @@
     <img align="left" alt="Mobaxterm" width="26px" src="./icons/mobaxterm.jpg"/>
     <img align="left" alt="filezilla" width="26px" src="./icons/filezilla.png"/>
     <img align="left" alt="git" width="26px" src="./icons/git.png"/>
+    <img align="left" alt="npm" width="26px" src="./icons/npm.png"/>
+    <img align="left" alt="webpack" width="26px" src="./icons/webpack.png"/>
 
 <br /><br />
 - ### Others
