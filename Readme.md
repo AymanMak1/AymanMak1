@@ -37,7 +37,7 @@
 
   <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-  <img align="left" alt="Ajax" width="26px" src="./icons/ajax.png" />
+  <img align="left" alt="Ajax" width="26px" style="padding-top:8px;" src="./icons/ajax.png" />
 
   <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
@@ -112,7 +112,7 @@
     <img align="left" alt="Mobaxterm" width="26px" src="./icons/mobaxterm.jpg"/>
     <img align="left" alt="filezilla" width="26px" src="./icons/filezilla.png"/>
     <img align="left" alt="git" width="26px" src="./icons/git.png"/>
-    <img align="left" alt="npm" width="26px" src="./icons/npm.png"/>
+    <img align="left" alt="npm" style="padding-top:10px;" width="26px" src="./icons/npm.png"/>
     <img align="left" alt="webpack" width="26px" src="./icons/webpack.png"/>
 
 <br /><br />
