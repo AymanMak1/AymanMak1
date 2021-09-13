@@ -27,7 +27,7 @@
 
   <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-  <img align="left" alt="MaterializeCSS" width="26px" src="./icons/materialUI.png" />
+  <img align="left" alt="MaterialUI" width="26px" src="./icons/materialUI.png" />
 
   <img align="left" alt="MaterializeCSS" width="26px" src="./icons/materialize.png" />
 
@@ -93,8 +93,8 @@
 - ### Operating Systems:
   <img align="left" alt="Windows 10" width="26px" src="./icons/windows10.png" />
   <img align="left" alt="Ubuntu" width="26px" src="./icons/ubuntu.png" />
-  <img align="left" alt="CentOS" width="26px" src="./icons/fedora.png" />
-    <img align="left" alt="Ubuntu" width="26px" src="./icons/kali.png" />
+  <img align="left" alt="Fedora" width="26px" src="./icons/fedora.png" />
+    <img align="left" alt="Kali" width="26px" src="./icons/kali.png" />
   <img align="left" alt="CentOS" width="26px" src="./icons/centos.png" />
 
   <br /><br />
@@ -122,13 +122,15 @@
     <img align="left" alt="liquid" width="26px" src="./icons/liquid.png" />
     <img align="left" alt="wordpress" width="26px" src="./icons/wp.png" />
 
-<br /><br />
+<br /><br /> <br />
+<!--
+## Github Stats: 
 
-## Github Stats:
-
-[![Webstain's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanMak1&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) 
+[![Webstain's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanMak1&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanMak1&langs_count=10&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
 
 
 
