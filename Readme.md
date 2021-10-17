@@ -2,7 +2,7 @@
 
 ## I'm a MSc Computer Science Student, FullStack Developer, Data Analyst/Scientist and UI/UX Designer
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently coding in Vue.js 3
 - 👯 Thirsty for learning more about the CS industry
 - 🥅 2021 Goals: Starting my MSc Degree and Working with clients
 - ⚡ Fun fact: Looking forward to become a business owner in the forthcoming years.
