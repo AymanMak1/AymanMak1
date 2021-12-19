@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently coding in Vue.js 3 + Vite
 - 👯 Thirsty for learning more about the CS industry
-- 🥅 2021 Goals: Starting my MSc Degree and Working with clients
+- 🥅 2021 Goals: MSc Degree and Working with clients
 - ⚡ Fun fact: Looking forward to become a business owner in the forthcoming years.
 
 ## Connect with me:
