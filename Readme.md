@@ -66,9 +66,9 @@
 
 - ### Testing:
 
-    <img align="left" alt="Laravel" width="26px" src="./icons/selenium.png" />
+    <img align="left" alt="Selenium" width="26px" src="./icons/selenium.png" />
 
-    <img align="left" alt="firebase" width="26px" src="./icons/cypress.png" />
+    <img align="left" alt="Cypress" width="42px" src="./icons/cypress.png" />
 
 <br /> <br />
 
