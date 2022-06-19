@@ -1,6 +1,6 @@
 # Hi there, I'm Ayman Makhoukhi 👋
 
-## I'm a MSc Computer Science Student, FullStack Developer, Data Analyst/Scientist and UI/UX Designer
+## I'm a MSc Computer Science Student, FullStack Developer and UI/UX Designer
 
 - 🌱 I’m currently coding in Vue 3
 - 👯 Thirsty for learning more about the CS industry
