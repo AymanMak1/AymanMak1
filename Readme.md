@@ -95,16 +95,13 @@
 - ### Other Programming Languages :
 
   <img align="left" alt="java" width="26px" src="./icons/java.png" />
-  <img align="left" alt="ruby" width="26px" src="./icons/ruby.png" />
 
 <br /><br />
 
 - ### Operating Systems:
   <img align="left" alt="Windows 10" width="26px" src="./icons/windows10.png" />
   <img align="left" alt="Ubuntu" width="26px" src="./icons/ubuntu.png" />
-  <img align="left" alt="Fedora" width="26px" src="./icons/fedora.png" />
-    <img align="left" alt="Kali" width="26px" src="./icons/kali.png" />
-  <img align="left" alt="CentOS" width="26px" src="./icons/centos.png" />
+  <img align="left" alt="Kali" width="26px" src="./icons/kali.png" />
 
   <br /><br />
 - ### Tools
