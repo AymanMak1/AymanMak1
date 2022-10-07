@@ -87,7 +87,7 @@
     
     <img align="left" alt="Jenkins" width="42px" src="./icons/jenkins.png" />
     
-    img align="left" alt="gitlab" width="42px" src="./icons/gitlab.png" />
+    <img align="left" alt="gitlab" width="42px" src="./icons/gitlab.png" />
 
 <br /> <br />
 
