@@ -69,6 +69,25 @@
     <img align="left" alt="Selenium" width="26px" src="./icons/selenium.png" />
 
     <img align="left" alt="Cypress" width="42px" src="./icons/cypress.png" />
+    
+    <img align="left" alt="Robot" width="42px" src="./icons/robot.png" />
+
+<br /> <br />
+
+
+- ### CI/CD:
+
+    <img align="left" alt="Docker" width="26px" src="./icons/docker.png" />
+
+    <img align="left" alt="Docker Compose" width="42px" src="./icons/docker-compose.png" />
+    
+    <img align="left" alt="K8S" width="42px" src="./icons/k8s.png" />
+    
+    <img align="left" alt="Helm" width="42px" src="./icons/helm.png" />
+    
+    <img align="left" alt="Jenkins" width="42px" src="./icons/jenkins.png" />
+    
+    img align="left" alt="gitlab" width="42px" src="./icons/gitlab.png" />
 
 <br /> <br />
 
@@ -101,7 +120,6 @@
 - ### Operating Systems:
   <img align="left" alt="Windows 10" width="26px" src="./icons/windows10.png" />
   <img align="left" alt="Ubuntu" width="26px" src="./icons/ubuntu.png" />
-  <img align="left" alt="Kali" width="26px" src="./icons/kali.png" />
 
   <br /><br />
 - ### Tools
