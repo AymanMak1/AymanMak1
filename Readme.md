@@ -147,8 +147,7 @@
 
 ## Github Stats: 
 
-<!-- ## Github stats :
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanMak1&show_icons=true&count_private=true&hide=issues&theme=react)](https://github.com/AymanMak1) -->
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanMak1&show_icons=true&count_private=true&hide=issues&theme=react)](https://github.com/AymanMak1)
 
 ## Streaks and contributions :
 [![My Github Streak](https://github-readme-streak-stats.herokuapp.com?user=AymanMak1&theme=react)](https://github.com/AymanMak1)
