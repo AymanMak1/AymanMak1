@@ -147,9 +147,14 @@
 
 ## Github Stats: 
 
-[![Webstain's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanMak1&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ## Github stats :
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanMak1&show_icons=true&count_private=true&hide=issues&theme=react)](https://github.com/AymanMak1) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanMak1&langs_count=10&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+## Streaks and contributions :
+[![My Github Streak](https://github-readme-streak-stats.herokuapp.com?user=AymanMak1&theme=react)](https://github.com/AymanMak1)
+
+## Most used languages :
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanMak1&theme=react&langs_count=12&layout=compact)](https://github.com/AymanMak1)
 
 
 
