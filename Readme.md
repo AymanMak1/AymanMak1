@@ -1,8 +1,8 @@
 # Hi there, I'm Ayman Makhoukhi 👋
 
-## I'm a MSc Computer Science Student, FullStack Developer and UI/UX Designer
+## I'm a MSc Computer Science Student, Software Engineer at Nokia
 
-- 🌱 I’m currently coding in Vue 3
+- 🌱 I’m currently coding in Next JS and Solidity
 - 👯 Thirsty for learning more about the CS industry
 - 🥅 Goals: MSc Degree and Working with clients
 - ⚡ Fun fact: Looking forward to become a business owner in the forthcoming years.
