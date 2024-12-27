@@ -2,8 +2,8 @@
 
 # 💫 About Me:
 🌱 I’m currently coding in Next JS and Solidity and I am Software/DevOps Engineer at Nokia<<br>
-👯 MSc Computer Science Graduate<br>
-🥅 Goals: Working with clients and make side income<br>
+👯 MSc in Computer Science specialized in Software & Service Architectures <br>
+🥅 Goals: Work on my own full service digital agency growth <br>
 ⚡ Fun fact: Looking forward to become a business owner in the forthcoming years.<br>
 
 
