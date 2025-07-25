@@ -1,10 +1,13 @@
 # Hi there, I'm Ayman Makhoukhi 👋
-
+💼 Senior Business Analyst | API & Data Analysis | Cross-functional Delivery in Agile Teams | Bridging Tech & Business for Scalable Digital Products
+ Focusing on UI, API, Integration and Enterprise projects improving Customer Journey and Experience
 # 💫 About Me:
-🌱 I’m currently coding in Next JS and Solidity and I am Software/DevOps Engineer at Nokia<<br>
-👯 MSc in Computer Science specialized in Software & Service Architectures <br>
-🥅 Goals: Work on my own full service digital agency growth <br>
-⚡ Fun fact: Looking forward to become a business owner in the forthcoming years.<br>
+🔍 I specialize in bridging business goals with technical execution — shaping solutions, defining clear requirements, and driving delivery with cross-functional teams.<br>
+💡 With 5+ years of a hybrid background in Software Engineering and Business Analysis, focusing on UI, API, Integration and Enterprise projects improving Customer Journey and Experience. <br>
+🧭 Currently growing into Business & Solution Architecture roles, with strong emphasis on product strategy, API integration projects, and data-driven decision making within agile environments. <br>
+🎓 MSc in Computer Science, focused on Software & Service Architectures, enabling me to understand both product vision and system constraints. <br>
+🚀 Long-term goal: Grow my own digital product agency, transforming visions into reality. <br>
+⚡ Fun fact:  I love reverse-engineering platforms and brainstorming end-to-end solutions — from journey mapping to product delivery.<br>
 
 
 ## 🌐 Socials:
